@@ -1,1 +1,9 @@
+sudo: false
+
+cache:
+  directories:
+  - $HOME/.m2
+
+install: true
+
 language: java
